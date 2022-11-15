@@ -5,3 +5,7 @@ order pizza
 wait for delivery
 pizza arrives - pay for pizza
 Enjoy
+if order incorrect - call pizza place
+ask for replacement or refund
+if refund (ask when you can pick it up)
+else (ask when replacement pizza will arrive)
