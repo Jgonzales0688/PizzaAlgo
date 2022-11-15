@@ -1,0 +1,7 @@
+Google pizza place near me
+select pizza place
+call pizza place
+order pizza
+wait for delivery
+pizza arrives - pay for pizza
+Enjoy
